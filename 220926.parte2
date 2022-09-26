@@ -53,3 +53,12 @@ herança;
 encapsulamento;
 
 polimorfismo;
+
+
+
+tudo que é classe começa com letra maiuscula e fica na herança para reuso de certas características. 
+enquanto package é comumente encontrado com letra minúscula, 
+
+tudo que é construtor e caracteristicas da mesma classe. 
+
+como a classe objeto é a ckasse mãe todo package que está nela ja é incluso nas proximas classes .
